@@ -4,7 +4,7 @@ Laravel Version: 10,
 OAuth Library: Passport
 
 
-## Run This Command After Installation
+## Run These Commands After Installation
 `php artisan passport:install`
 
 `php artisan storage:link`
