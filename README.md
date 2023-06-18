@@ -5,9 +5,9 @@ OAuth Library: Passport
 
 
 ## Run This Command After Installation
-`
-php artisan passport:install
-`
+`php artisan passport:install`
+
+`php artisan storage:link`
 
 ## Notes
 - Used Password Grant type client of passport for authentication 
